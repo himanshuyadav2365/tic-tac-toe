@@ -1,0 +1,20 @@
+h1 {
+    text-decoration: underline;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100vw;
+    margin: 1rem;
+  }
+  
+  .row button {
+    width: 10rem;
+    height: 10rem;
+    font-size: 5rem;
+    background-color: blue;
+  }
+  
